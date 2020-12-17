@@ -1,0 +1,14 @@
+#Ne pas synchroniser sur la branche Git :
+
+#--> tous les fichiers .DS_Store de MacOS
+---
+*.DS_Store
+
+
+#--> tous les fichiers du dossier target
+---
+/target/
+
+#--> les paramètres personnel de Glassfish
+---
+#/src/main/setup/glassfish-ressources.xml
