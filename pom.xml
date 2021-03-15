@@ -92,6 +92,19 @@
 			<groupId>com.vaadin</groupId>
 			<artifactId>vaadin-themes</artifactId>
 		</dependency>
+        <!--PLUGINS-VAADIN-->
+        <!-- https://mvnrepository.com/artifact/com.vaadin/vaadin-date-picker-flow -->
+        <dependency>
+            <groupId>com.vaadin</groupId>
+            <artifactId>vaadin-date-picker-flow</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.vaadin/vaadin-time-picker-flow -->
+        <dependency>
+            <groupId>com.vaadin</groupId>
+            <artifactId>vaadin-time-picker-flow</artifactId>
+            <version>4.0.1</version>
+        </dependency>
 	</dependencies>
 
 	<build>
